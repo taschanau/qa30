@@ -1,0 +1,240 @@
+
+A1. Title and Approval Sheet			
+
+Contains project title	
+	
+	
+
+
+Indicates revision number, if applicable	
+	
+	
+
+
+Indicates organization=s name	
+	
+	
+
+
+Date signature of organization=s project manager	
+	
+	
+
+
+Dated signature of organization=s QA manager present	
+	
+	
+
+
+Other signatures, as needed	
+	
+	
+
+
+A2. Table of Contents			
+
+Lists QA Project Plan information sections	
+	
+	
+
+
+Document control information indicated	
+	
+	
+
+
+A3. Distribution List			
+
+Includes all individuals who are to receive a copy of the QA Project Plan and identifies their organization	
+	
+	
+
+
+A4. Project/Task Organization			
+
+Identifies key individuals involved in all major aspects of the project, including contractors	
+	
+	
+
+
+Discusses their responsibilities	
+	
+	
+
+
+Project QA Manager position indicates independence from unit generating data 	
+	
+	
+
+
+Identifies individual responsible for maintaining the official, approved QA Project Plan	
+	
+	
+
+
+Organizational chart shows lines of authority and reporting responsibilities	
+	
+	
+
+
+A5.  Problem Definition/Background			
+
+States decision(s) to be made, actions to be taken, or outcomes expected from the information to be obtained	
+	
+	
+
+
+Clearly explains the reason (site background or historical context) for initiating this project	
+	
+	
+
+
+Identifies regulatory information, applicable criteria, action limits, etc. necessary to the project	
+	
+	
+
+
+A6.  Project/Task Description			
+
+Summarizes work to be performed, for example, measurements to be made, data files to be obtained, etc., that support the project=s goals	
+	
+	
+
+
+Provides work schedule indicating critical project points, e.g., start and completion dates for activities such as sampling, analysis, data or file reviews, and assessments	
+	
+	
+
+
+Details geographical locations to be studied, including maps where possible	
+	
+	
+
+
+Discusses resource and time constraints, if applicable	
+	
+	
+
+
+A7.  Quality Objectives and Criteria
+
+Identifies performance/measurement criteria for all information to be collected and acceptance criteria for information obtained from previous studies, including project action limits and laboratory detection limits and range of anticipated concentrations of each parameter of interest	
+	
+	
+
+
+Discusses precision	
+	
+	
+
+
+Addresses bias	
+	
+	
+
+
+Discusses representativeness	
+	
+	
+
+
+Identifies the need for completeness	
+	
+	
+
+
+Describes the need for comparability	
+	
+	
+
+
+Discusses desired method sensitivity	
+	
+	
+
+
+A8.  Special Training/Certifications
+
+Identifies any project personnel specialized training or certifications 	
+	
+	
+
+
+Discusses how this training will be provided	
+	
+	
+
+
+Indicates personnel responsible for assuring these are satisfied	
+	
+	
+
+
+Identifies where this information is documented	
+	
+	
+
+
+A.9  Documentation and Records
+
+Identifies report format and summarizes all  data report package information	
+	
+	
+
+
+Lists all other project documents, records, and electronic files that will be produced	
+	
+	
+
+
+Identifies where project information should be kept and for how long	
+	
+	
+
+
+Discusses back up plans for records stored electronically	
+	
+	
+
+
+States how individuals identified in A3 will receive the most current copy of the approved QA Project Plan, identifying the individual responsible for this	
+	
+	
+
+
+B1.	Sampling Process Design (Experimental Design)
+
+Describes and justifies design strategy, indicating size of the area, volume, or time period to be represented by a sample	
+	
+	
+
+
+Details the type and total number of sample types/matrix or test runs/trials expected and needed 	
+	
+	
+
+
+Indicates where samples should be taken, how sites will be identified/located	
+	
+	
+
+
+Discusses what to do if sampling sites become inaccessible	
+	
+	
+
+
+Identifies project activity schedules such as each sampling event, times samples should be sent to the laboratory, etc.	
+	
+	
+
+
+Specifies what information is critical and what is for informational purposes only	
+	
+	
+
+
+Identifies sources of variability and how this variability should be reconciled with project information	
+	
+	
+
